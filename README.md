@@ -1,5 +1,11 @@
 # Hello, I'm Josh van Eyken 👋
 
+## About Me
+
+:man_technologist: Software Developer  
+:mortar_board: Graduated fro App Academy  
+:books: Currently Learning: Typescript
+
 ## Languages and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

@@ -29,8 +29,7 @@ My Time at App Academy helped me build a strong foundation in software developme
 
 ## My stats:
 
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvaneyken&show_icons=true&theme=github_dark)](https://github.com/jvaneyken/github-readme-stats)  
-
+<!-- [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvaneyken&show_icons=true&theme=github_dark)](https://github.com/jvaneyken/github-readme-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=jvaneyken&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvaneyken&theme=github_dark)](https://github.com/jvaneyken/github-readme-stats)

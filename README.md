@@ -4,7 +4,7 @@
 
 :man_technologist: Software Developer  
 :mortar_board: Graduated from App Academy  
-:books: Currently Learning: Typescript & React Native
+:books: Currently Learning: Typescript & Apollo/GraphQL
 
 I'm a full-stack software engineer with experience in React.js, Redux, Javascript, CSS, Ruby on Rails, Node.js, MongoDB, SQL, Express, Git, Github, HTML, AWS. I have a background in Theatre and Event Lighting, and have always been drawn to fields that involve the creative application of technology. I decided to make the switch to Software engineering after seeing the potential to shape a fulfilling career building interesting things that benefit other people. 
 

@@ -13,11 +13,13 @@ My Time at App Academy helped me build a strong foundation in software developme
 
 ## Languages and Tools
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-lightgrey?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-lightgrey?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![Prisma](https://img.shields.io/badge/prisma-%234C51BF.svg?style=for-the-badge&amp;logo=prisma&amp;logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23A058FE.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white)
 ![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
